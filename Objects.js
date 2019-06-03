@@ -6,3 +6,5 @@ let Object1 = {
 }
 console.log(`My name is ${Object1.name} and I'm ${Object1.age} years old.`);
 console.log("Change 1");
+console.log("Change 2");
+console.log("Change 3");
